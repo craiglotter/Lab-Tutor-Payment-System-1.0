@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Report_Data>
+<Payment_Period_Start>2004/09/01</Payment_Period_Start>
+<Payment_Period_End>2004/09/30</Payment_Period_End>
+<Department>Commerce I.T.</Department>
+<Cost_Centre>COM1004</Cost_Centre>
+<Fund>060565</Fund>
+<Hourly_Rate_Rands>32</Hourly_Rate_Rands>
+<Hourly_Rate_Cents>50</Hourly_Rate_Cents>
+<Report_Compiler>Riethwaan Salie</Report_Compiler>
+<Create_Subfolder>True</Create_Subfolder>
+<Overwrite_Files>True</Overwrite_Files>
+<Show_Created_Files>True</Show_Created_Files>
+</Report_Data>

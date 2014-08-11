@@ -1,0 +1,3 @@
+APPLICATION_NAME=Lab Tutor Payment System
+EXECUTABLE=Lab Tutor Payment System.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Lab Tutor Payment System/manifest.xml
